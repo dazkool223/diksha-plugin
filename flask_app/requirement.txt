@@ -1,0 +1,7 @@
+flask
+werkzeug.utils
+numpy
+pytesseract
+PIL
+torch
+transformers
